@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-10-18 18:53:34+00:00
 layout: post

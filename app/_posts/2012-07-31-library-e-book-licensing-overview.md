@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2012-07-31 21:44:03+00:00
 layout: post
@@ -24,13 +24,13 @@ It's not just facts 'n' stats by any means, but here are some anyway:
 
 <blockquote>"According to the 2011 Library Journal E-Book Survey, 82% of libraries currently offer access to e-books, which reflects an increase of 10 percentage points from 2010. ... Libraries maintain an average of 4,350 e-book copies in a collection."
 
-> 
+>
 > "[T]he publisher-to-library market across all formats and all libraries (e.g., private, public, governmental, academic, research, etc.) is approximately $1.9B; of this, the market for public libraries is approximately $850M"
 
-> 
+>
 > 92% of libraries use OverDrive as their  e-book dealer
 
-> 
+>
 > Of the major publishers, only Random House allows unrestricted lending of e-books.</blockquote>
 
 
@@ -47,13 +47,13 @@ It's not just facts 'n' stats by any means, but here are some anyway:
 
 <blockquote>"According to the 2011 Library Journal E-Book Survey, 82% of libraries currently offer access to e-books, which reflects an increase of 10 percentage points from 2010. ... Libraries maintain an average of 4,350 e-book copies in a collection."
 
-> 
+>
 > "[T]he publisher-to-library market across all formats and all libraries (e.g., private, public, governmental, academic, research, etc.) is approximately $1.9B; of this, the market for public libraries is approximately $850M"
 
-> 
+>
 > 92% of libraries use OverDrive as their  e-book dealer
 
-> 
+>
 > Of the major publishers, only Random House allows unrestricted lending of e-books.</blockquote>
 
 

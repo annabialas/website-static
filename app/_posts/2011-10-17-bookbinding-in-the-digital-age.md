@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-10-17 12:18:39+00:00
 layout: post
@@ -15,7 +15,7 @@ tags:
 - digital bible
 ---
 
-Avi Solomon at BoingBoing has a terrific [interview](http://boingboing.net/2011/10/16/bookbinding-in-the-digital-age-an-interview-with-michael-greer.html) with Michael Greer about the appeal of bookbinding, and about Michael's "Digital Bible." 
+Avi Solomon at BoingBoing has a terrific [interview](http://boingboing.net/2011/10/16/bookbinding-in-the-digital-age-an-interview-with-michael-greer.html) with Michael Greer about the appeal of bookbinding, and about Michael's "Digital Bible."
 
 I  love the photo:
 

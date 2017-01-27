@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-05-26 23:13:03+00:00
 layout: post
@@ -23,4 +23,4 @@ tags:
 
 
 
-It's a hard list to disagree with...especially if your team has been working on LibraryCloud as an open metadata server. 
+It's a hard list to disagree with...especially if your team has been working on LibraryCloud as an open metadata server.

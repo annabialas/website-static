@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2010-07-28 16:27:12+00:00
 layout: post
@@ -18,10 +18,10 @@ Harvard has [announced](http://osc.hul.harvard.edu/liblab) the creation of the H
 
 <blockquote>
 
-> 
+>
 > The Lab promotes the development of projects in all areas of library activity and leverages the entrepreneurial aspirations of people throughout the library system and beyond. Proposals from faculty and students from anywhere in the university will also be welcomed and the Lab will encourage collaboration with projects being developed at MIT.
-> 
-> 
+>
+>
 </blockquote>
 
 

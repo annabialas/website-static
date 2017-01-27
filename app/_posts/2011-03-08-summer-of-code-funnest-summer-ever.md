@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-03-08 22:42:19+00:00
 layout: post
@@ -20,7 +20,7 @@ We've put in for a couple of Summer of Code [projects](http://cyber.law.harvard.
 <blockquote>1. Syllabus parser. Design, structure and populate an open repository of the information in college syllabi.
 
 
-> 
+>
 >   * Assuming we get permission, figure out how to retrieve syllabi from Google. (If we don't get permission, we have a starter set of 500,000+ syllabi.)
 
 >   * Figure out how to parse the multiple and free-form formats syllabi are found in.
@@ -29,7 +29,7 @@ We've put in for a couple of Summer of Code [projects](http://cyber.law.harvard.
 
 >   * Build a Web site with that provides useful end-user and API access to the syllabus data.
 
-> 
+>
 
 2. Scholarly semantic web builder. The aim is to crawl the Google Books corpus looking for useful relationships among scholarly works. Such relationships only begin with citations/footnotes. What other semantic cues can be unearthed to see how scholarly books relate?
 

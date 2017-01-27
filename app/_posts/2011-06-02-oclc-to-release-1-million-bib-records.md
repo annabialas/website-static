@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-06-02 23:28:57+00:00
 layout: post
@@ -26,4 +26,4 @@ will be releasing the bibliographic info about the top million most popular book
 
 
 
-[NOTE added June 6] The OCLC has clarified Roy's remarks [here](http://www.hyperorg.com/blogger/2011/06/02/oclc-to-release-1-million-book-records/#comments). 
+[NOTE added June 6] The OCLC has clarified Roy's remarks [here](http://www.hyperorg.com/blogger/2011/06/02/oclc-to-release-1-million-book-records/#comments).

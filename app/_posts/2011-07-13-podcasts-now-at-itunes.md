@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-07-13 19:57:39+00:00
 layout: post
@@ -14,6 +14,6 @@ tags:
 - podcdast
 ---
 
-Thanks to the tireless efforts of Dan Jones, the series producer, the Library Innovation Lab podcast series is now [available at iTunes](http://itunes.apple.com/us/podcast/librarylab-the-podcast/id449691453). 
+Thanks to the tireless efforts of Dan Jones, the series producer, the Library Innovation Lab podcast series is now [available at iTunes](http://itunes.apple.com/us/podcast/librarylab-the-podcast/id449691453).
 
 Collect them all!

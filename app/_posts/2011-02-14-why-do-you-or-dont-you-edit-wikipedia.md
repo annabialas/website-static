@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-02-14 19:41:45+00:00
 layout: post
@@ -25,11 +25,11 @@ The Wikimedia Research Committee [4] has just launched a survey to understand wh
 
 http://bit.ly/ExpertBarriers
 
-[1] http://chronicle.com/article/article-content/125899/  
+[1] http://chronicle.com/article/article-content/125899/
 
-[2] http://www.jmir.org/2011/1/e14/  
+[2] http://www.jmir.org/2011/1/e14/
 
-[3] http://www.psychologicalscience.org/index.php/members/aps-wikipedia-initiative/  
+[3] http://www.psychologicalscience.org/index.php/members/aps-wikipedia-initiative/
 
 [4] http://meta.wikimedia.org/wiki/Research_Committee
 </blockquote>

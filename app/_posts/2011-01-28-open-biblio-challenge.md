@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-01-28 21:36:33+00:00
 layout: post
@@ -12,6 +12,6 @@ categories:
 - Library Cloud
 ---
 
-The Open Biblio folks want to know [what you would do with open bibliographic data](http://openbiblio.net/challenge/)? What would you build? 
+The Open Biblio folks want to know [what you would do with open bibliographic data](http://openbiblio.net/challenge/)? What would you build?
 
-Great question. 
+Great question.

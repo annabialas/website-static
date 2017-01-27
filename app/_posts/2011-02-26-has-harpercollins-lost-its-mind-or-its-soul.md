@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-02-26 17:10:14+00:00
 layout: post
@@ -19,7 +19,7 @@ tags:
 ---
 
 [_Note: As always with posts on this blog, authors speak for themselves. - dw_]
- 
+
 
 HarperCollins has [changed its agreement](http://www.boingboing.net/2011/02/25/harpercollins-to-lib.html) with the main distributor of e-books to libraries: e-books will now become inaccessible after 26 checkouts.
 

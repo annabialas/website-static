@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-05-20 00:48:23+00:00
 layout: post
@@ -21,7 +21,7 @@ Stefan Gradmann (humbold Universitaet) on libraries after books become mere temp
 
 
 
-Doron Weber of the Alfred P. Sloan Foundation on his hopes for the DPLA: 
+Doron Weber of the Alfred P. Sloan Foundation on his hopes for the DPLA:
 
 
 

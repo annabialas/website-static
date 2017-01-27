@@ -1,5 +1,5 @@
 ---
-author: David Weinberger
+author: david-weinberger
 comments: true
 date: 2011-10-16 14:41:06+00:00
 layout: post
@@ -11,4 +11,4 @@ categories:
 - books
 ---
 
-[S. Peter Davis](http://www.cracked.com/article_19453_6-reasons-were-in-another-book-burning-period-in-history.html) at Cracked explains the disturbing fact that libraries pulp books regularly and in secret. 
+[S. Peter Davis](http://www.cracked.com/article_19453_6-reasons-were-in-another-book-burning-period-in-history.html) at Cracked explains the disturbing fact that libraries pulp books regularly and in secret.

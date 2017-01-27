@@ -2,7 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-01-15 21:11:58+00:00
-layout: post
 title: Awesome Box top 110 of all time
 wordpress_id: 2040
 ---
