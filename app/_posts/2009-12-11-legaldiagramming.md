@@ -1,9 +1,7 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2009-12-11 18:53:26+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2009/12/11/legaldiagramming/
 slug: legaldiagramming
 title: Legal Diagramming
 wordpress_id: 108

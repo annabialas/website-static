@@ -1,10 +1,7 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: false
 date: 2013-02-28 17:36:29+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/02/28/hiring-a-developer-to-chart-the-future-of-libraries/
-slug: hiring-a-developer-to-chart-the-future-of-libraries
 title: Hiring! A developer to chart the future of libraries
 wordpress_id: 1546
 ---

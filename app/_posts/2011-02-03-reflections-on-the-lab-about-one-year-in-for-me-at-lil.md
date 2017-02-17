@@ -1,5 +1,5 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2011-02-03 02:48:51+00:00
 layout: post
@@ -21,22 +21,22 @@ A couple months back on the airplane, I made a version of this list.  Some loose
 
 
 
-	
+
   1. _central location_ - public libraries, private ones, academic - libraries are always sited at the heart of everything
 
-	
+
   2. _librarians_ - an interested community, a live and in-person customer support staff
 
-	
+
   3. _strong user base_ -- a community of patrons
 
-	
+
   4. _transaction data_ - we can still identify trends, learn about the community while respecting privacy
 
-	
+
   5. _trust_ - people trust libraries and librarians as purveyors
 
-	
+
   6. _inventory_ - stuff (books, dvds, mags, kindles?) people want, for "free trial"
 
 

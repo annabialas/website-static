@@ -1,5 +1,5 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2010-09-22 23:22:11+00:00
 layout: post

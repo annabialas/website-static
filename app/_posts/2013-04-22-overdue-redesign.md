@@ -1,11 +1,8 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2013-04-22 20:20:26+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/04/22/overdue-redesign/
-slug: overdue-redesign
-title: 'Overdue Redesign '
+title: 'Overdue Redesign'
 wordpress_id: 1653
 ---
 
@@ -17,16 +14,16 @@ I received an overdue notice a little while back.  I've received them many time
 
 
 
-	
+
   * Did I really need to know the Barcode number?
 
-	
+
   * The date and time I originally took it out.
 
-	
+
   * Why was the title so buried?
 
-	
+
   * etc...
 
 

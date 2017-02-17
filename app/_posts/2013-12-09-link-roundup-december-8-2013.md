@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2013-12-09 00:01:24+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/12/09/link-roundup-december-8-2013/
-slug: link-roundup-december-8-2013
 title: Link roundup December 8, 2013
 wordpress_id: 1841
 categories:

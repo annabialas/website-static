@@ -2,7 +2,6 @@
 author: matt-phillips
 comments: false
 date: 2015-10-20 20:08:18+00:00
-slug: hiring-devops-energy-wanted
 title: Hiring! Devops energy wanted.
 wordpress_id: 2128
 categories:

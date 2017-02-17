@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2013-11-14 21:42:55+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/11/14/awesome-box-at-watertown/
-slug: awesome-box-at-watertown
 title: Awesome Box at Watertown
 wordpress_id: 1818
 ---

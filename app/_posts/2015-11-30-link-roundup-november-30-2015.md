@@ -2,7 +2,6 @@
 author: annie-cain
 comments: false
 date: 2015-11-30 21:58:27+00:00
-slug: link-roundup-november-30-2015
 title: Link roundup November 30, 2015
 wordpress_id: 2168
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: false
 date: 2014-03-06 20:03:02+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/03/06/dan-cohen-on-the-dplas-proposal-to-the-fcc/
-slug: dan-cohen-on-the-dplas-proposal-to-the-fcc
 title: Dan Cohen on the DPLA's proposal to the FCC
 wordpress_id: 1853
 categories:

@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2013-12-20 15:35:39+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/12/20/link-roundup-december-20-2013/
-slug: link-roundup-december-20-2013
 title: Link roundup December 20, 2013
 wordpress_id: 1842
 categories:

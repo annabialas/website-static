@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-08-22 15:27:10+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/08/22/link-roundup-august-22-2014/
-slug: link-roundup-august-22-2014
 title: Link roundup August 22, 2014
 wordpress_id: 1957
 categories:

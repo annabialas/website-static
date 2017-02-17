@@ -1,10 +1,7 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2013-05-28 19:47:52+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/05/28/media-wall/
-slug: media-wall
 title: media wall
 wordpress_id: 1701
 ---

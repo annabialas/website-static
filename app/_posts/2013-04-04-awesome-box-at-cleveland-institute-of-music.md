@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2013-04-04 18:20:14+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/04/04/awesome-box-at-cleveland-institute-of-music/
-slug: awesome-box-at-cleveland-institute-of-music
 title: Awesome Box at Cleveland Institute of Music
 wordpress_id: 1644
 ---

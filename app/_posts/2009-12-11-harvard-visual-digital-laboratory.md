@@ -1,10 +1,7 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2009-12-11 19:03:23+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2009/12/11/harvard-visual-digital-laboratory/
-slug: harvard-visual-digital-laboratory
 title: Harvard Visual Digital Laboratory
 wordpress_id: 115
 ---

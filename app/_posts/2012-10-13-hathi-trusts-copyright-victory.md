@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2012-10-13 00:47:06+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/10/13/hathi-trusts-copyright-victory/
-slug: hathi-trusts-copyright-victory
 title: Hathi Trust's copyright victory
 wordpress_id: 1445
 categories:

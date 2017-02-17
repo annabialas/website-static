@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-11-05 16:44:55+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/11/05/link-roundup-november-5-2014/
-slug: link-roundup-november-5-2014
 title: Link roundup November 5, 2014
 wordpress_id: 1980
 categories:

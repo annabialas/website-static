@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: false
 date: 2014-03-18 19:02:41+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/03/18/awesome-box-at-pla-2014-thank-you/
-slug: awesome-box-at-pla-2014-thank-you
 title: Awesome Box at PLA 2014. Thank you.
 wordpress_id: 1875
 ---

@@ -2,7 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-04-02 14:43:32+00:00
-slug: link-roundup-april-2-2015
 title: Link roundup April 2, 2015
 wordpress_id: 2080
 categories:

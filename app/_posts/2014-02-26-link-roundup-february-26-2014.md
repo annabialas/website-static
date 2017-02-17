@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-02-26 21:09:22+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/02/26/link-roundup-february-26-2014/
-slug: link-roundup-february-26-2014
 title: Link roundup February 26, 2014
 wordpress_id: 1851
 categories:

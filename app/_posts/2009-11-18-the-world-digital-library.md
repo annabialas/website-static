@@ -1,10 +1,7 @@
 ---
-author: Ben
+author: ben-gaucherin
 comments: true
-date: 2009-11-18 02:16:19+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2009/11/17/the-world-digital-library/
-slug: the-world-digital-library
+date: 2009-11-17 02:16:19+00:00
 title: The World Digital Library
 wordpress_id: 53
 categories:

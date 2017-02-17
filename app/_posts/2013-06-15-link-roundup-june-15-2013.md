@@ -2,9 +2,6 @@
 author: annie-cain
 comments: false
 date: 2013-06-15 21:25:21+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/06/15/link-roundup-june-15-2013/
-slug: link-roundup-june-15-2013
 title: Link roundup June 15, 2013
 wordpress_id: 1727
 categories:

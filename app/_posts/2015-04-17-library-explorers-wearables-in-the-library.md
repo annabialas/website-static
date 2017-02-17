@@ -2,7 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2015-04-17 19:48:34+00:00
-slug: library-explorers-wearables-in-the-library
 title: Library Explorers - Wearables in the library
 wordpress_id: 2099
 ---

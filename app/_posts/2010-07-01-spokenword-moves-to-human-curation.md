@@ -1,10 +1,7 @@
 ---
 author: david-weinberger
 comments: true
-date: 2010-07-01 00:01:59+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/06/30/spokenword-moves-to-human-curation/
-slug: spokenword-moves-to-human-curation
+date: 2010-06-30 00:01:59+00:00
 title: SpokenWord moves to human curation
 wordpress_id: 317
 categories:

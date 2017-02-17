@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2013-02-11 18:49:21+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/02/11/are-publishers-out-competing-libraries-podcast-with-andrew-odlyzko/
-slug: are-publishers-out-competing-libraries-podcast-with-andrew-odlyzko
 title: Are publishers out-competing libraries? Podcast with Andrew Odlyzko
 wordpress_id: 1513
 categories:

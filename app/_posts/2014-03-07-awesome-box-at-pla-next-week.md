@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-03-07 21:34:13+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/03/07/awesome-box-at-pla-next-week/
-slug: awesome-box-at-pla-next-week
 title: Awesome Box at PLA next week
 wordpress_id: 1856
 ---

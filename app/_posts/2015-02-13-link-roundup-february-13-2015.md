@@ -2,7 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-02-13 20:04:18+00:00
-slug: link-roundup-february-13-2015
 title: Link roundup February 13, 2015
 wordpress_id: 2074
 categories:

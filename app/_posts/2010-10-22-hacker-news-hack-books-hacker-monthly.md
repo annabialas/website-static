@@ -1,5 +1,5 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2010-10-22 23:21:33+00:00
 layout: post
@@ -29,16 +29,16 @@ Don't know if it's a business or what, but it's kinda profound:
 
 
 
-	
+
   1. A compelling magazine
 
-	
+
   2. crowd-edited
 
-	
+
   3. printed on-demand
 
-	
+
   4. [designed](http://hackermonthly.posterous.com/on-designing-hacker-monthly), "edited", put together by 1 person, the hatcher of the idea
 
 

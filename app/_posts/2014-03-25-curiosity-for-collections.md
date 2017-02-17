@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: false
 date: 2014-03-25 19:57:14+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/03/25/curiosity-for-collections/
-slug: curiosity-for-collections
 title: CURIOSity for collections
 wordpress_id: 1896
 categories:

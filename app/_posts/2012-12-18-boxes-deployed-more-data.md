@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2012-12-18 18:50:18+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/12/18/boxes-deployed-more-data/
-slug: boxes-deployed-more-data
 title: Boxes deployed, more data
 wordpress_id: 1470
 ---

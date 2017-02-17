@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-04-11 18:28:53+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/04/11/link-roundup-april-11-2014/
-slug: link-roundup-april-11-2014
 title: Link roundup April 11, 2014
 wordpress_id: 1901
 categories:

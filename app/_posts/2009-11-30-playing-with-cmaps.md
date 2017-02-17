@@ -1,10 +1,7 @@
 ---
-author: Ben
+author: ben-gaucherin
 comments: true
 date: 2009-11-30 18:51:15+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2009/11/30/playing-with-cmaps/
-slug: playing-with-cmaps
 title: Playing with CMaps
 wordpress_id: 90
 categories:

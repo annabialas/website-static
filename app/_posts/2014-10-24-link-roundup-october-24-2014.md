@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-10-24 14:25:51+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/10/24/link-roundup-october-24-2014/
-slug: link-roundup-october-24-2014
 title: Link roundup October 24, 2014
 wordpress_id: 1979
 categories:

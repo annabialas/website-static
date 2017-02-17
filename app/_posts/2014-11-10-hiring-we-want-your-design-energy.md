@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: false
 date: 2014-11-10 19:31:36+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/11/10/hiring-we-want-your-design-energy/
-slug: hiring-we-want-your-design-energy
 title: Hiring! We want your design energy.
 wordpress_id: 1982
 ---

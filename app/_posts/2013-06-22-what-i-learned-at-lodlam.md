@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: false
 date: 2013-06-22 20:06:33+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/06/22/what-i-learned-at-lodlam/
-slug: what-i-learned-at-lodlam
 title: What I learned at LODLAM
 wordpress_id: 1728
 categories:

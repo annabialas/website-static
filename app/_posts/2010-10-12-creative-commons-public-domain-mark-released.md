@@ -1,5 +1,5 @@
 ---
-author: Kim
+author: kim-dulin
 comments: true
 date: 2010-10-12 13:55:59+00:00
 layout: post

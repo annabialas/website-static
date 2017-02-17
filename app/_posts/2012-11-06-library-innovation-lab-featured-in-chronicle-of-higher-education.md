@@ -1,10 +1,7 @@
 ---
-author: Kim
+author: kim-dulin
 comments: true
 date: 2012-11-06 17:47:26+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/11/06/library-innovation-lab-featured-in-chronicle-of-higher-education/
-slug: library-innovation-lab-featured-in-chronicle-of-higher-education
 title: Library Innovation Lab Featured in Chronicle Of Higher Education
 wordpress_id: 1466
 ---

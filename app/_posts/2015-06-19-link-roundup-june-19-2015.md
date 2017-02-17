@@ -2,7 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-06-19 20:04:06+00:00
-slug: link-roundup-june-19-2015
 title: Link roundup June 19, 2015
 wordpress_id: 2109
 categories:

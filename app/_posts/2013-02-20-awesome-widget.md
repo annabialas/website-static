@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: false
 date: 2013-02-20 21:00:36+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/02/20/awesome-widget/
-slug: awesome-widget
 title: Awesome Widget
 wordpress_id: 1529
 ---

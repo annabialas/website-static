@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2014-07-21 15:14:28+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/07/21/link-roundup-july-21-2014/
-slug: link-roundup-july-21-2014
 title: Link roundup July 21, 2014
 wordpress_id: 1941
 categories:

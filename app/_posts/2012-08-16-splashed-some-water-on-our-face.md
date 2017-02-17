@@ -1,5 +1,5 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2012-08-16 19:44:28+00:00
 layout: post
@@ -17,19 +17,19 @@ The goals:
 
 
 
-	
+
   1. Freshen up our look
 
-	
+
   2. Mobile-friendly
 
-	
+
   3. Make it really easy to add stuff, but no big-time CMS nonsense
 
-	
+
   4. Fun
 
-	
+
   5. Shareable
 
 

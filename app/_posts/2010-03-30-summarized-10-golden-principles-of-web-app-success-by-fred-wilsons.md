@@ -1,11 +1,9 @@
 ---
-author: Jeff
+author: jeff-goldenson
 comments: true
 date: 2010-03-30 17:45:49+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/03/30/summarized-10-golden-principles-of-web-app-success-by-fred-wilsons/
 slug: summarized-10-golden-principles-of-web-app-success-by-fred-wilsons
-title: 'Summarized 10 Golden Principles of Web App Success, by Fred Wilson''s '
+title: "Summarized 10 Golden Principles of Web App Success, by Fred Wilson's"
 wordpress_id: 293
 ---
 
@@ -30,4 +28,4 @@ Fred Wilson's [10 Golden Principles of Successful Web Apps](http://carsonified.c
 
 **Clean** - The app has to be simple visually, not busy on the page.  Lots of space.  Big fonts.  Not too much functionality per page.  Very inviting.  [Tumblr](http://www.tumblr.com) is a great example  you just know what to do.
 
-**Playful **- Have fun.  The ability to play in an application.  Foster a game dynamic.  Like Weight watchers, you establish goals, you get points and report against goals, you meet goals and are rewarded.
+**Playful** - Have fun.  The ability to play in an application.  Foster a game dynamic.  Like Weight watchers, you establish goals, you get points and report against goals, you meet goals and are rewarded.

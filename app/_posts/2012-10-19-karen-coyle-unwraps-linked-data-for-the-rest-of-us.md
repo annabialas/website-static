@@ -1,10 +1,7 @@
 ---
-author: Kim
+author: kim-dulin
 comments: true
 date: 2012-10-19 13:26:41+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/10/19/karen-coyle-unwraps-linked-data-for-the-rest-of-us/
-slug: karen-coyle-unwraps-linked-data-for-the-rest-of-us
 title: Karen Coyle Unwraps Linked Data for the Rest of Us
 wordpress_id: 1453
 ---

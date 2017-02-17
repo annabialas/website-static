@@ -2,9 +2,6 @@
 author: annie-cain
 comments: false
 date: 2013-08-10 17:15:51+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/08/10/link-roundup-august-10-2013/
-slug: link-roundup-august-10-2013
 title: Link roundup August 10, 2013
 wordpress_id: 1744
 categories:

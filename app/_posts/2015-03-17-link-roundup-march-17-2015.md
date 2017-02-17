@@ -2,7 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-03-17 17:54:09+00:00
-slug: link-roundup-march-17-2015
 title: Link roundup March 17, 2015
 wordpress_id: 2078
 categories:

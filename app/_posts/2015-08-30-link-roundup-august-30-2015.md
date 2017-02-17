@@ -2,7 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-08-30 17:41:36+00:00
-slug: link-roundup-august-30-2015
 title: Link roundup August 30, 2015
 wordpress_id: 2122
 categories:

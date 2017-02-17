@@ -2,7 +2,6 @@
 author: annie-cain
 comments: false
 date: 2015-10-01 13:23:09+00:00
-slug: link-roundup-october-1-2015
 title: Link roundup October 1, 2015
 wordpress_id: 2125
 categories:

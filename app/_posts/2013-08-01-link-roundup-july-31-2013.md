@@ -2,9 +2,6 @@
 author: annie-cain
 comments: false
 date: 2013-08-01 01:35:44+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2013/08/01/link-roundup-july-31-2013/
-slug: link-roundup-july-31-2013
 title: Link roundup July 31, 2013
 wordpress_id: 1743
 categories:

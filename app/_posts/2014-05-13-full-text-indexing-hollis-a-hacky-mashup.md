@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2014-05-13 17:06:44+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2014/05/13/full-text-indexing-hollis-a-hacky-mashup/
-slug: full-text-indexing-hollis-a-hacky-mashup
 title: 'Full  text indexing HOLLIS: a hacky mashup'
 wordpress_id: 1906
 ---

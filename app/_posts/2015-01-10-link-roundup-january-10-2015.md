@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2015-01-10 23:35:04+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2015/01/10/link-roundup-january-10-2015/
-slug: link-roundup-january-10-2015
 title: Link roundup January 10, 2015
 wordpress_id: 2038
 categories:
