@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-03 12:13:28+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/03/roy-tennant-on-oclc-and-linked-data/
-slug: roy-tennant-on-oclc-and-linked-data
 title: Roy Tennant on OCLC and linked data
 wordpress_id: 673
 categories:

@@ -2,9 +2,6 @@
 author: Jessica
 comments: true
 date: 2012-06-14 18:03:23+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/06/14/timeslice/
-slug: timeslice
 title: Time/Slice!
 wordpress_id: 1192
 ---

@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2011-10-14 21:24:27+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/10/14/weekly-roundup-snippets-of-recent-lil-happenings/
-slug: weekly-roundup-snippets-of-recent-lil-happenings
 title: 'Weekly Roundup: recent LIL happenings'
 wordpress_id: 822
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-02-23 18:24:39+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/02/23/stackview-the-stop-action-version/
-slug: stackview-the-stop-action-version
 title: 'StackView: The Stop-Action Version'
 wordpress_id: 556
 categories:

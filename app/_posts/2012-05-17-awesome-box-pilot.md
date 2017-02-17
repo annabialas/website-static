@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2012-05-17 15:35:52+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/05/17/awesome-box-pilot/
-slug: awesome-box-pilot
 title: Awesome Box Pilot
 wordpress_id: 1099
 categories:

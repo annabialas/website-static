@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-03-08 22:42:19+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/03/08/summer-of-code-funnest-summer-ever/
-slug: summer-of-code-funnest-summer-ever
 title: Summer of Code? Funnest summer ever!
 wordpress_id: 569
 categories:

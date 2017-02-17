@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-08 17:04:46+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/08/mackenzie-smith-on-open-licenses-for-data-and-metadata/
-slug: mackenzie-smith-on-open-licenses-for-data-and-metadata
 title: MacKenzie Smith on open licenses for data and metadata
 wordpress_id: 689
 categories:

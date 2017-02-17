@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-11-01 18:42:36+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/11/01/library-labthe-podcast-009-what-libraries-want/
-slug: library-labthe-podcast-009-what-libraries-want
 title: 'Library Lab/The Podcast 009: What Libraries Want'
 wordpress_id: 947
 categories:

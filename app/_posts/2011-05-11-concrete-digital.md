@@ -2,8 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-05-11 18:23:56+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/05/11/concrete-digital/
 slug: concrete-digital
 title: 'Library Lab/The Podcast 001: Concrete Digital'
 wordpress_id: 606

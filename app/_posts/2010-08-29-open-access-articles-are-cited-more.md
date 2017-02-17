@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-08-29 14:38:51+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/08/29/open-access-articles-are-cited-more/
-slug: open-access-articles-are-cited-more
 title: Open Access articles are cited more?
 wordpress_id: 347
 categories:

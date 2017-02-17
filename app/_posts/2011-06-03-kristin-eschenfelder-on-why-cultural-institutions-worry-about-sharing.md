@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-03 22:53:36+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/03/kristin-eschenfelder-on-why-cultural-institutions-worry-about-sharing/
-slug: kristin-eschenfelder-on-why-cultural-institutions-worry-about-sharing
 title: Kristin Eschenfelder on why cultural institutions worry about sharing
 wordpress_id: 675
 categories:

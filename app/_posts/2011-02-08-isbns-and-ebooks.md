@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-02-08 22:06:01+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/02/08/isbns-and-ebooks/
-slug: isbns-and-ebooks
 title: ISBNs and ebooks
 wordpress_id: 545
 categories:

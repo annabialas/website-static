@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2012-02-02 21:03:19+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/02/02/library-labthe-podcast-011-a-technological-graveyard/
-slug: library-labthe-podcast-011-a-technological-graveyard
 title: 'Library Lab/The Podcast 011: A Technological Graveyard?'
 wordpress_id: 1022
 categories:

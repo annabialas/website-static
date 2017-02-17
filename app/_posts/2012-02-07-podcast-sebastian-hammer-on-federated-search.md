@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2012-02-07 19:21:05+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/02/07/podcast-sebastian-hammer-on-federated-search/
-slug: podcast-sebastian-hammer-on-federated-search
 title: '[podcast] Sebastian Hammer on federated search'
 wordpress_id: 1038
 categories:

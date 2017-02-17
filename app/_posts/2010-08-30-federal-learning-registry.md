@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-08-30 20:27:43+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/08/30/federal-learning-registry/
-slug: federal-learning-registry
 title: Federal Learning Registry
 wordpress_id: 349
 categories:

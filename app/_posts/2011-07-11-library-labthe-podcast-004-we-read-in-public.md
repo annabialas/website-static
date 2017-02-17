@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-07-11 17:36:29+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/07/11/library-labthe-podcast-004-we-read-in-public/
-slug: library-labthe-podcast-004-we-read-in-public
 title: 'Library Lab/The Podcast 004: We Read in Public'
 wordpress_id: 736
 categories:

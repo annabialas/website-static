@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-10-09 13:50:05+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/10/09/library-future-0/
-slug: library-future-0
 title: Library Future.0
 wordpress_id: 814
 categories:

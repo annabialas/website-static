@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-02-26 17:10:14+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/02/26/has-harpercollins-lost-its-mind-or-its-soul/
-slug: has-harpercollins-lost-its-mind-or-its-soul
 title: Has HarperCollins lost its mind or its soul?
 wordpress_id: 560
 categories:

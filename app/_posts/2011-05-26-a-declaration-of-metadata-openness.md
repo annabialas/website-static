@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-05-26 23:13:03+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/05/26/a-declaration-of-metadata-openness/
-slug: a-declaration-of-metadata-openness
 title: A declaration of metadata openness
 wordpress_id: 651
 categories:

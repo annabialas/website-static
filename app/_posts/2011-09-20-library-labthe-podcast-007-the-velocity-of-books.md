@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-09-20 14:28:46+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/09/20/library-labthe-podcast-007-the-velocity-of-books/
-slug: library-labthe-podcast-007-the-velocity-of-books
 title: 'Library Lab/The Podcast 007: The Velocity of Books'
 wordpress_id: 796
 categories:

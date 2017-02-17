@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-03 23:09:00+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/03/eric-hellman-on-freeing-works-for-all/
-slug: eric-hellman-on-freeing-works-for-all
 title: Eric Hellman on freeing works for all
 wordpress_id: 678
 categories:

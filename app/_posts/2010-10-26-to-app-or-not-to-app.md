@@ -2,9 +2,6 @@
 author: Michael
 comments: true
 date: 2010-10-26 18:27:30+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/10/26/to-app-or-not-to-app/
-slug: to-app-or-not-to-app
 title: To app or not to app
 wordpress_id: 427
 categories:

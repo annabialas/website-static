@@ -2,9 +2,6 @@
 author: kim-dulin
 comments: true
 date: 2011-01-10 17:09:55+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/10/75-of-students-still-prefer-print-format-for-textbooks/
-slug: 75-of-students-still-prefer-print-format-for-textbooks
 title: 75% of students still prefer print format for textbooks
 wordpress_id: 508
 ---

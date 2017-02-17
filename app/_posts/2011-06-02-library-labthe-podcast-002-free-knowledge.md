@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-06-02 15:11:56+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/02/library-labthe-podcast-002-free-knowledge/
-slug: library-labthe-podcast-002-free-knowledge
 title: 'Library Lab/The Podcast 002: Free Knowledge'
 wordpress_id: 660
 categories:

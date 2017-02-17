@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-01-24 17:53:39+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/24/creative-commons-licenses-gone-from-brazilian-government-site/
-slug: creative-commons-licenses-gone-from-brazilian-government-site
 title: Creative Commons licenses gone from Brazilian government site
 wordpress_id: 529
 categories:

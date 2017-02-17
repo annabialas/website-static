@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-10-09 15:08:58+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/10/09/stephen-ramsay-on-the-fungibility-of-librarians-and-scholars/
-slug: stephen-ramsay-on-the-fungibility-of-librarians-and-scholars
 title: Stephen Ramsay on the fungibility of librarians and scholars
 wordpress_id: 404
 categories:

@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2010-09-17 13:44:35+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/09/17/if-these-walls-could-talk/
-slug: if-these-walls-could-talk
 title: '"If these walls could talk"'
 wordpress_id: 361
 ---

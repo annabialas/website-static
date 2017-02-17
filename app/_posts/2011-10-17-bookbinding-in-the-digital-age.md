@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-10-17 12:18:39+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/10/17/bookbinding-in-the-digital-age/
-slug: bookbinding-in-the-digital-age
 title: Bookbinding in the digital age
 wordpress_id: 862
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2012-07-31 21:44:03+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/07/31/library-e-book-licensing-overview/
-slug: library-e-book-licensing-overview
 title: 'Library e-book licensing: overview'
 wordpress_id: 1325
 categories:

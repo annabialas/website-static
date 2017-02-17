@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2012-06-27 17:39:35+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/06/27/down-with-pound/
-slug: down-with-pound
 title: Down with Pound
 wordpress_id: 1247
 ---

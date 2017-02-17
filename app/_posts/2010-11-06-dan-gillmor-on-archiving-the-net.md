@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-11-06 17:02:45+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/11/06/dan-gillmor-on-archiving-the-net/
-slug: dan-gillmor-on-archiving-the-net
 title: Dan Gillmor on archiving the Net
 wordpress_id: 446
 categories:

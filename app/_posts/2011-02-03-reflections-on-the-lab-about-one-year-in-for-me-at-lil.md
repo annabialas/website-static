@@ -1,10 +1,7 @@
 ---
 author: jeff-goldenson
 comments: true
-date: 2011-02-03 02:48:51+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/02/02/reflections-on-the-lab-about-one-year-in-for-me-at-lil/
-slug: reflections-on-the-lab-about-one-year-in-for-me-at-lil
+date: 2011-02-02 02:48:51+00:00
 title: Reflections on the Lab (about one year in for me at LIL)
 wordpress_id: 538
 ---

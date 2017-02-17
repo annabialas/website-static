@@ -1,11 +1,8 @@
 ---
+published: false
 author: jeff-goldenson
 comments: true
 date: 2009-12-17 15:01:40+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2009/12/17/data-sharing/
-published: false
-slug: data-sharing
 title: Data Sharing
 wordpress_id: 121
 ---

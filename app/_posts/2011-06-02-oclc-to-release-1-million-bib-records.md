@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-02 23:28:57+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/02/oclc-to-release-1-million-bib-records/
-slug: oclc-to-release-1-million-bib-records
 title: OCLC to release 1 million bib records
 wordpress_id: 667
 categories:

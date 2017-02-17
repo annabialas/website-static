@@ -1,10 +1,7 @@
 ---
 author: Dan Jones
 comments: true
-date: 2011-08-25 02:26:28+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/08/24/library-labthe-podcast-006-from-brick-and-mortar-to-1s-and-0s/
-slug: library-labthe-podcast-006-from-brick-and-mortar-to-1s-and-0s
+date: 2011-08-24 02:26:28+00:00
 title: 'Library Lab/The Podcast 006: From Brick and Mortar to 1s and 0s'
 wordpress_id: 782
 categories:

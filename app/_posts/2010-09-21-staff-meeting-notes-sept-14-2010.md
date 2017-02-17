@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-09-21 14:07:43+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/09/21/staff-meeting-notes-sept-14-2010/
-slug: staff-meeting-notes-sept-14-2010
 title: Staff meeting notes - Sept. 14, 2010
 wordpress_id: 367
 categories:

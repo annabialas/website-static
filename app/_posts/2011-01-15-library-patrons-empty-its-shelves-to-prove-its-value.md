@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-01-15 15:11:02+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/15/library-patrons-empty-its-shelves-to-prove-its-value/
-slug: library-patrons-empty-its-shelves-to-prove-its-value
 title: Library patrons empty its shelves to prove its value
 wordpress_id: 517
 tags:

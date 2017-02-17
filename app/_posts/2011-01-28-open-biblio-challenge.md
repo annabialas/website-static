@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-01-28 21:36:33+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/28/open-biblio-challenge/
-slug: open-biblio-challenge
 title: Open Biblio challenge
 wordpress_id: 532
 categories:

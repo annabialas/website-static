@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-03-04 14:28:50+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/03/04/dortmund-university-opens-its-bibliographic-records/
-slug: dortmund-university-opens-its-bibliographic-records
 title: Dortmund University opens its bibliographic records
 wordpress_id: 565
 categories:

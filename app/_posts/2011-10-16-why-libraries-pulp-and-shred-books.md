@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-10-16 14:41:06+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/10/16/why-libraries-pulp-and-shred-books/
-slug: why-libraries-pulp-and-shred-books
 title: Why libraries pulp and shred books
 wordpress_id: 857
 categories:

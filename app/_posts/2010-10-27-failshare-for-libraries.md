@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-10-27 16:46:28+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/10/27/failshare-for-libraries/
-slug: failshare-for-libraries
 title: '#FailShare for libraries'
 wordpress_id: 439
 categories:

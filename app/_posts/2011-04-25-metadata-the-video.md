@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-04-25 15:57:03+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/04/25/metadata-the-video/
-slug: metadata-the-video
 title: 'Metadata: The Video'
 wordpress_id: 601
 categories:

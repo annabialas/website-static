@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-11-07 17:37:06+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/11/07/avi-warshavsky-on-the-future-of-textbooks/
-slug: avi-warshavsky-on-the-future-of-textbooks
 title: Avi Warshavsky on the future of textbooks
 wordpress_id: 949
 categories:

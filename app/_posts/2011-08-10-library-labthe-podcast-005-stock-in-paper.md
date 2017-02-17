@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-08-10 18:15:22+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/08/10/library-labthe-podcast-005-stock-in-paper/
-slug: library-labthe-podcast-005-stock-in-paper
 title: 'Library Lab/The Podcast 005: Stock in Paper'
 wordpress_id: 764
 categories:
@@ -34,7 +31,7 @@ Part of this has been due to the initiative of O'Reilly's founder Tim O'Reilly w
 
 
 
-Tim recently sat down with Harvard Library Innovation Lab’s very own David Weinberger to talk about using the web to curate and archive knowledge, and what innovations publishers like he have to take on in order to survive. 
+Tim recently sat down with Harvard Library Innovation Lab’s very own David Weinberger to talk about using the web to curate and archive knowledge, and what innovations publishers like he have to take on in order to survive.
 =======
 Subscribe to the RSS of the LibraryLab podcast [**here**](http://librarylab.law.harvard.edu/blog/category/podcast/) to stay updated on upcoming episodes!
 

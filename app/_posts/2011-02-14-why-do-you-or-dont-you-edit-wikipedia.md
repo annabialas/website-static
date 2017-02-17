@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-02-14 19:41:45+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/02/14/why-do-you-or-dont-you-edit-wikipedia/
-slug: why-do-you-or-dont-you-edit-wikipedia
 title: Why do you, or don't you, edit Wikipedia?
 wordpress_id: 552
 categories:

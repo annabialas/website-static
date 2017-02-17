@@ -1,10 +1,8 @@
 ---
 author: david-weinberger
 comments: true
-date: 2011-05-19 01:12:56+00:00
+date: 2011-05-18 01:12:56+00:00
 layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/05/18/live-from-the-dpla-orphaned-works/
-slug: live-from-the-dpla-orphaned-works
 title: 'Live from the DPLA: Orphaned works'
 wordpress_id: 633
 categories:

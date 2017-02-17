@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-03-19 15:36:16+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/03/19/melting-point-for-open-data-a-model-for-books/
-slug: melting-point-for-open-data-a-model-for-books
 title: 'Melting point for open data: A model for books??'
 wordpress_id: 576
 categories:

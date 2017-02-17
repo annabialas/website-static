@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-06 15:08:18+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/06/anra-kenney-and-susan-chun-on-museum-attendee-data/
-slug: anra-kenney-and-susan-chun-on-museum-attendee-data
 title: Anra Kenney and Susan Chun on museum attendee data
 wordpress_id: 685
 categories:

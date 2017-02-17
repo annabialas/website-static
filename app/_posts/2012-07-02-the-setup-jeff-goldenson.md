@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2012-07-02 16:35:52+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/07/02/the-setup-jeff-goldenson/
-slug: the-setup-jeff-goldenson
 title: The Setup -- Jeff Goldenson
 wordpress_id: 1254
 ---

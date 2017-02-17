@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2012-08-16 19:44:28+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/08/16/splashed-some-water-on-our-face/
-slug: splashed-some-water-on-our-face
 title: Splashed some water on our face.
 wordpress_id: 1335
 ---

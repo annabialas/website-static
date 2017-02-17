@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2010-10-22 23:21:33+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/10/22/hacker-news-hack-books-hacker-monthly/
-slug: hacker-news-hack-books-hacker-monthly
 title: Hacker News, Hack Monthly, Hacker Books
 wordpress_id: 413
 ---

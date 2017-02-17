@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-07-11 20:16:56+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/07/11/why-dont-more-academics-do-open-access-publishing/
-slug: why-dont-more-academics-do-open-access-publishing
 title: Why don't more academics do Open Access publishing?
 wordpress_id: 742
 categories:

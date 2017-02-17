@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-03-23 17:47:47+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/03/23/the-pinakes-database/
-slug: the-pinakes-database
 title: The Pinakes database
 wordpress_id: 578
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-12-09 22:48:14+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/12/09/peter-subers-top-open-access-developments-of-2010/
-slug: peter-subers-top-open-access-developments-of-2010
 title: Peter Suber's top Open Access biblio developments of 2010
 wordpress_id: 466
 categories:

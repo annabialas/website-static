@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-08-04 19:19:23+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/08/04/liblabapalooza/
-slug: liblabapalooza
 title: LibLabapalooza
 wordpress_id: 761
 categories:

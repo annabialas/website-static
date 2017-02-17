@@ -2,9 +2,6 @@
 author: matt-phillips
 comments: true
 date: 2012-06-12 01:34:11+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/06/12/awesome-box-signs-a-work-in-progress/
-slug: awesome-box-signs-a-work-in-progress
 title: Awesome Box signs, a work in progress
 wordpress_id: 1135
 categories:

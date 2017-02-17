@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-10-04 17:06:05+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/10/04/what-were-reading/
-slug: what-were-reading
 title: What we're reading
 wordpress_id: 390
 tags:

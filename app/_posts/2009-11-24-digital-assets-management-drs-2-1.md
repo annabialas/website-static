@@ -1,11 +1,8 @@
 ---
+published: false
 author: Paul Deschner
 comments: true
 date: 2009-11-24 20:59:40+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2009/11/24/digital-assets-management-drs-2-1/
-published: false
-slug: digital-assets-management-drs-2-1
 title: 'Digital Assets Management: DRS 2.1'
 wordpress_id: 86
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-01-11 21:13:58+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/11/principles-for-the-openness-of-bibliographic-data-to-launch/
-slug: principles-for-the-openness-of-bibliographic-data-to-launch
 title: Principles for the Openness of Bibliographic Data to launch
 wordpress_id: 511
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-04-21 13:36:52+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/04/21/libraries-can-own-the-kindle-but-who-owns-the-books/
-slug: libraries-can-own-the-kindle-but-who-owns-the-books
 title: Libraries can own the Kindle, but who owns the books?
 wordpress_id: 594
 categories:

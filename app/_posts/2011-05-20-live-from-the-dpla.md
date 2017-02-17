@@ -1,10 +1,7 @@
 ---
 author: david-weinberger
 comments: true
-date: 2011-05-20 00:48:23+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/05/19/live-from-the-dpla/
-slug: live-from-the-dpla
+date: 2011-05-19 00:48:23+00:00
 title: Live from the DPLA
 wordpress_id: 638
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-10-07 16:24:25+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/10/07/how-we-assess-credibility/
-slug: how-we-assess-credibility
 title: How we assess credibility
 wordpress_id: 810
 categories:

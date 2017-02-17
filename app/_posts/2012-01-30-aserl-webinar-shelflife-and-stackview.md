@@ -2,9 +2,6 @@
 author: kim-dulin
 comments: true
 date: 2012-01-30 15:52:24+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/01/30/aserl-webinar-shelflife-and-stackview/
-slug: aserl-webinar-shelflife-and-stackview
 title: ASERL Webinar - ShelfLife and Stackview
 wordpress_id: 1006
 ---

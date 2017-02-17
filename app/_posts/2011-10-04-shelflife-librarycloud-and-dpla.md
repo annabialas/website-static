@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-10-04 13:25:18+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/10/04/shelflife-librarycloud-and-dpla/
-slug: shelflife-librarycloud-and-dpla
 title: ShelfLife, LibraryCloud, and DPLA
 wordpress_id: 804
 categories:

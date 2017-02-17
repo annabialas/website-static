@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-08-20 19:00:53+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/08/20/holy-cow-im-a-co-director/
-slug: holy-cow-im-a-co-director
 title: Holy cow, I'm a co-director!
 wordpress_id: 333
 ---

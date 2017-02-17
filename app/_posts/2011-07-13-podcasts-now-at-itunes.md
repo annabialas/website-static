@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-07-13 19:57:39+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/07/13/podcasts-now-at-itunes/
-slug: podcasts-now-at-itunes
 title: Podcasts now at iTunes
 wordpress_id: 746
 categories:

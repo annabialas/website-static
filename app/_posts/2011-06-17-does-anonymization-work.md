@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-17 11:41:18+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/17/does-anonymization-work/
-slug: does-anonymization-work
 title: Does anonymization work?
 wordpress_id: 700
 categories:

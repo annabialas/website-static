@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-09-01 14:50:15+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/09/01/oed-kisses-paper-goodbye/
-slug: oed-kisses-paper-goodbye
 title: OED kisses paper goodbye
 wordpress_id: 355
 categories:

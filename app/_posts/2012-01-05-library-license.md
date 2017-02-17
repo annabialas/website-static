@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2012-01-05 22:16:32+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/01/05/library-license/
-slug: library-license
 title: Library License
 wordpress_id: 986
 ---

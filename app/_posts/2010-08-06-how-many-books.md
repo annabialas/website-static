@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-08-06 18:13:55+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/08/06/how-many-books/
-slug: how-many-books
 title: How many books?
 wordpress_id: 330
 categories:

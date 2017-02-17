@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-08-25 17:51:51+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/08/25/status-update-meeting-notes/
-slug: status-update-meeting-notes
 title: Status update meeting notes
 wordpress_id: 344
 categories:

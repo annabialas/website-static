@@ -1,10 +1,7 @@
 ---
 author: david-weinberger
 comments: true
-date: 2011-01-21 03:54:41+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/20/this-open-access-stuff-is-catching-on/
-slug: this-open-access-stuff-is-catching-on
+date: 2011-01-20 03:54:41+00:00
 title: This open access stuff is catching on!
 wordpress_id: 527
 categories:

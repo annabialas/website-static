@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-06-05 16:11:25+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/05/how-to-digitize-a-million-books/
-slug: how-to-digitize-a-million-books
 title: How to digitize a million books
 wordpress_id: 682
 categories:

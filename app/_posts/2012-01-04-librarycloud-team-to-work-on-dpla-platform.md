@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2012-01-04 19:47:39+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/01/04/librarycloud-team-to-work-on-dpla-platform/
-slug: librarycloud-team-to-work-on-dpla-platform
 title: LibraryCloud team to work on DPLA platform
 wordpress_id: 981
 categories:

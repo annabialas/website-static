@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-01-02 22:03:27+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/02/the-year-in-open-access/
-slug: the-year-in-open-access
 title: The year in Open Access
 wordpress_id: 479
 categories:

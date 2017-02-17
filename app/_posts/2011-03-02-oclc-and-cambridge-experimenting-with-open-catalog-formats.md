@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-03-02 15:38:06+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/03/02/oclc-and-cambridge-experimenting-with-open-catalog-formats/
-slug: oclc-and-cambridge-experimenting-with-open-catalog-formats
 title: OCLC and Cambridge experimenting with open catalog formats
 wordpress_id: 563
 categories:

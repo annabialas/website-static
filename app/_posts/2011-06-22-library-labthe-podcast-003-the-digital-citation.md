@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-06-22 21:18:27+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/06/22/library-labthe-podcast-003-the-digital-citation/
-slug: library-labthe-podcast-003-the-digital-citation
 title: 'Library Lab/The Podcast 003: The Digital Citation'
 wordpress_id: 706
 categories:

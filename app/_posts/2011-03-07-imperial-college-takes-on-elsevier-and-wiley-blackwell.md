@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2011-03-07 23:11:30+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/03/07/imperial-college-takes-on-elsevier-and-wiley-blackwell/
-slug: imperial-college-takes-on-elsevier-and-wiley-blackwell
 title: Imperial College takes on Elsevier and Wiley Blackwell
 wordpress_id: 567
 categories:

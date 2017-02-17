@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2011-01-20 15:37:27+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/01/20/personal-paths-through-information/
-slug: personal-paths-through-information
 title: personal paths through information
 wordpress_id: 490
 ---

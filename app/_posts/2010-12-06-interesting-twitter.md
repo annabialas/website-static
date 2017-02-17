@@ -2,10 +2,7 @@
 author: jeff-goldenson
 comments: true
 date: 2010-12-06 16:04:12+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/12/06/interesting-twitter/
-slug: interesting-twitter
-title: 'Interesting Twitter '
+title: 'Interesting Twitter'
 wordpress_id: 451
 ---
 

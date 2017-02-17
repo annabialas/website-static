@@ -2,10 +2,7 @@
 author: jeff-goldenson
 comments: true
 date: 2010-09-21 20:31:50+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/09/21/save-the-warburg-library-with-collections-karaoke/
-slug: save-the-warburg-library-with-collections-karaoke
-title: Save The Warburg Library!  (With Collections Karaoke)
+title: Save The Warburg Library! (With Collections Karaoke)
 wordpress_id: 380
 ---
 

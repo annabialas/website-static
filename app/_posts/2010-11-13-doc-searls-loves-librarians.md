@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-11-13 21:23:41+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/11/13/doc-searls-loves-librarians/
-slug: doc-searls-loves-librarians
 title: Doc Searls loves librarians
 wordpress_id: 454
 categories:

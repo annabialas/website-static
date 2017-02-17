@@ -2,9 +2,6 @@
 author: jeff-goldenson
 comments: true
 date: 2012-06-01 20:08:21+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/06/01/extra-extra/
-slug: extra-extra
 title: '"Extra - Extra"'
 wordpress_id: 1117
 ---

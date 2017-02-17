@@ -2,9 +2,6 @@
 author: Dan Jones
 comments: true
 date: 2011-09-27 17:48:11+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2011/09/27/library-labthe-podcast-008-the-molecule-of-data/
-slug: library-labthe-podcast-008-the-molecule-of-data
 title: 'Library Lab/The Podcast 008: The Molecule of Data'
 wordpress_id: 802
 categories:

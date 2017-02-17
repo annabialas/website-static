@@ -2,9 +2,6 @@
 author: annie-cain
 comments: true
 date: 2012-05-24 19:47:09+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2012/05/24/quality-rules/
-slug: quality-rules
 title: Quality Rules
 wordpress_id: 1107
 ---

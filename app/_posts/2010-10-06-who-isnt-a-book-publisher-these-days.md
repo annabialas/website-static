@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-10-06 15:19:55+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/10/06/who-isnt-a-book-publisher-these-days/
-slug: who-isnt-a-book-publisher-these-days
 title: Who isn't a book publisher these days?
 wordpress_id: 400
 categories:

@@ -2,9 +2,6 @@
 author: david-weinberger
 comments: true
 date: 2010-09-13 20:22:10+00:00
-layout: post
-link: http://librarylab.law.harvard.edu/blog/2010/09/13/xpert-e-learning-repository/
-slug: xpert-e-learning-repository
 title: XPERT e-learning repository
 wordpress_id: 359
 categories:
